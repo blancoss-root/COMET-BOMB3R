@@ -1,0 +1,5 @@
+python 3.11 ve üstü gerekiyo install yaparkenede add with path kısmını tikliyoruz yoksa hata verir
+sonra yukardaki comet-main yazan bara tıklayın ve oraya cmd yazın orda sadece cmd yazıcak
+cmd açıldıktan sonra oraya pip install -r requirements.txt yazıyorsunuz ve gereksinimleri yüklemiş oluyosunuz
+sonra oraya python comet.py yazıp enterlıyoruz yada comet-bomber doyasından comet.py dosyasını direkt açabilirsiniz 
+
